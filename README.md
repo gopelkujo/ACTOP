@@ -1,6 +1,4 @@
-# ACTOP
-
-## How to Run
+# How to Run
 
 In the project directory, you can run:
 
