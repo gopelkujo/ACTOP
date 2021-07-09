@@ -26,6 +26,14 @@ const personSchema = new mongoose.Schema({
     harapan_user: {
         type: String,
         required: false
+    },
+    point: {
+        type: Number,
+        required: true
+    },
+    badge: {
+        type: String,
+        required: true
     }
 })
 
